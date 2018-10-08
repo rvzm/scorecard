@@ -1,2 +1,2 @@
 # scorecard
-A simple script used as a scorecard
+A simple scorecard script
