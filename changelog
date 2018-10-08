@@ -1,6 +1,9 @@
 # scorecard - A simple scorecard script
 # - changelog
 
+- v0.1 r1
+ - added ability to score more than one person
+ - now writes game name, and players names/scores to a file `default-game-score.txt`
 - v0.1 beta
  - it runs!
  - currently will ask for a game and player name, and their score, then give it back to you
