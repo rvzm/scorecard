@@ -1,0 +1,6 @@
+# scorecard - A simple scorecard script
+# - changelog
+
+- v0.1 beta
+ - it runs!
+ - currently will ask for a game and player name, and their score, then give it back to you
